@@ -1,153 +1,153 @@
 # Negocios 001-050
-# Para activar un negocio, sustituye /pendiente.html por su enlace de destino.
+# Para activar un negocio, sustituye /pendiente.html?id=XXX por su enlace de destino.
 # Conserva la ruta /r/XXX y el codigo 302. No reutilices IDs ya entregados.
 
 # Negocio 001 - Disponible
-/r/001 /pendiente.html 302
+/r/001 /pendiente.html?id=001 302
 
 # Negocio 002 - Disponible
-/r/002 /pendiente.html 302
+/r/002 /pendiente.html?id=002 302
 
 # Negocio 003 - Disponible
-/r/003 /pendiente.html 302
+/r/003 /pendiente.html?id=003 302
 
 # Negocio 004 - Disponible
-/r/004 /pendiente.html 302
+/r/004 /pendiente.html?id=004 302
 
 # Negocio 005 - Disponible
 /r/005 https://drive.google.com/file/d/1ZIqgvNcp6xKi64jWATt8vAx4Yh7UN7gE/view?usp=sharing 302
 
 # Negocio 006 - Disponible
-/r/006 /pendiente.html 302
+/r/006 /pendiente.html?id=006 302
 
 # Negocio 007 - Disponible
-/r/007 /pendiente.html 302
+/r/007 /pendiente.html?id=007 302
 
 # Negocio 008 - Disponible
-/r/008 /pendiente.html 302
+/r/008 /pendiente.html?id=008 302
 
 # Negocio 009 - Disponible
-/r/009 /pendiente.html 302
+/r/009 /pendiente.html?id=009 302
 
 # Negocio 010 - Disponible
-/r/010 /pendiente.html 302
+/r/010 /pendiente.html?id=010 302
 
 # Negocio 011 - Disponible
-/r/011 /pendiente.html 302
+/r/011 /pendiente.html?id=011 302
 
 # Negocio 012 - Disponible
-/r/012 /pendiente.html 302
+/r/012 /pendiente.html?id=012 302
 
 # Negocio 013 - Disponible
-/r/013 /pendiente.html 302
+/r/013 /pendiente.html?id=013 302
 
 # Negocio 014 - Disponible
-/r/014 /pendiente.html 302
+/r/014 /pendiente.html?id=014 302
 
 # Negocio 015 - Disponible
-/r/015 /pendiente.html 302
+/r/015 /pendiente.html?id=015 302
 
 # Negocio 016 - Disponible
-/r/016 /pendiente.html 302
+/r/016 /pendiente.html?id=016 302
 
 # Negocio 017 - Disponible
-/r/017 /pendiente.html 302
+/r/017 /pendiente.html?id=017 302
 
 # Negocio 018 - Disponible
-/r/018 /pendiente.html 302
+/r/018 /pendiente.html?id=018 302
 
 # Negocio 019 - Disponible
-/r/019 /pendiente.html 302
+/r/019 /pendiente.html?id=019 302
 
 # Negocio 020 - Disponible
-/r/020 /pendiente.html 302
+/r/020 /pendiente.html?id=020 302
 
 # Negocio 021 - Disponible
-/r/021 /pendiente.html 302
+/r/021 /pendiente.html?id=021 302
 
 # Negocio 022 - Disponible
-/r/022 /pendiente.html 302
+/r/022 /pendiente.html?id=022 302
 
 # Negocio 023 - Disponible
-/r/023 /pendiente.html 302
+/r/023 /pendiente.html?id=023 302
 
 # Negocio 024 - Disponible
-/r/024 /pendiente.html 302
+/r/024 /pendiente.html?id=024 302
 
 # Negocio 025 - Disponible
-/r/025 /pendiente.html 302
+/r/025 /pendiente.html?id=025 302
 
 # Negocio 026 - Disponible
-/r/026 /pendiente.html 302
+/r/026 /pendiente.html?id=026 302
 
 # Negocio 027 - Disponible
-/r/027 /pendiente.html 302
+/r/027 /pendiente.html?id=027 302
 
 # Negocio 028 - Disponible
-/r/028 /pendiente.html 302
+/r/028 /pendiente.html?id=028 302
 
 # Negocio 029 - Disponible
-/r/029 /pendiente.html 302
+/r/029 /pendiente.html?id=029 302
 
 # Negocio 030 - Disponible
-/r/030 /pendiente.html 302
+/r/030 /pendiente.html?id=030 302
 
 # Negocio 031 - Disponible
-/r/031 /pendiente.html 302
+/r/031 /pendiente.html?id=031 302
 
 # Negocio 032 - Disponible
-/r/032 /pendiente.html 302
+/r/032 /pendiente.html?id=032 302
 
 # Negocio 033 - Disponible
-/r/033 /pendiente.html 302
+/r/033 /pendiente.html?id=033 302
 
 # Negocio 034 - Disponible
-/r/034 /pendiente.html 302
+/r/034 /pendiente.html?id=034 302
 
 # Negocio 035 - Disponible
-/r/035 /pendiente.html 302
+/r/035 /pendiente.html?id=035 302
 
 # Negocio 036 - Disponible
-/r/036 /pendiente.html 302
+/r/036 /pendiente.html?id=036 302
 
 # Negocio 037 - Disponible
-/r/037 /pendiente.html 302
+/r/037 /pendiente.html?id=037 302
 
 # Negocio 038 - Disponible
-/r/038 /pendiente.html 302
+/r/038 /pendiente.html?id=038 302
 
 # Negocio 039 - Disponible
-/r/039 /pendiente.html 302
+/r/039 /pendiente.html?id=039 302
 
 # Negocio 040 - Disponible
-/r/040 /pendiente.html 302
+/r/040 /pendiente.html?id=040 302
 
 # Negocio 041 - Disponible
-/r/041 /pendiente.html 302
+/r/041 /pendiente.html?id=041 302
 
 # Negocio 042 - Disponible
-/r/042 /pendiente.html 302
+/r/042 /pendiente.html?id=042 302
 
 # Negocio 043 - Disponible
-/r/043 /pendiente.html 302
+/r/043 /pendiente.html?id=043 302
 
 # Negocio 044 - Disponible
-/r/044 /pendiente.html 302
+/r/044 /pendiente.html?id=044 302
 
 # Negocio 045 - Disponible
-/r/045 /pendiente.html 302
+/r/045 /pendiente.html?id=045 302
 
 # Negocio 046 - Disponible
-/r/046 /pendiente.html 302
+/r/046 /pendiente.html?id=046 302
 
 # Negocio 047 - Disponible
-/r/047 /pendiente.html 302
+/r/047 /pendiente.html?id=047 302
 
 # Negocio 048 - Disponible
-/r/048 /pendiente.html 302
+/r/048 /pendiente.html?id=048 302
 
 # Negocio 049 - Disponible
-/r/049 /pendiente.html 302
+/r/049 /pendiente.html?id=049 302
 
 # Negocio 050 - Disponible
-/r/050 /pendiente.html 302
+/r/050 /pendiente.html?id=050 302
