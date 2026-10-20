@@ -3,7 +3,7 @@
 # Conserva la ruta /r/XXX y el codigo 302. No reutilices IDs ya entregados.
 
 # Negocio 001 - Disponible
-/r/001 https://search.google.com/local/writereview?placeid=ChIJSyNBtOAfzoURhqY5x1oWUmA 302
+/r/001 https://www.google.com/maps/place/?q=place_id:ChIJn02AYOYfzoUR6NfACJ5HzB4 302
 
 # Negocio 002 - Disponible
 /r/002 https://www.google.com/maps/place/?q=place_id:ChIJSyNBtOAfzoURhqY5x1oWUmA 302
